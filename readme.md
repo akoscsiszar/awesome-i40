@@ -33,11 +33,18 @@ Industry 4.0 is levaraging modern technologies to face the challenges of manufac
 
 ## Featured (new releases)
 
-- [Apple](https://apple.com) - Apple as a placeholder.
+- [Placenholder](https://apple.com) - Placeholder.
 
-## Section 1
+## Foundation
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+- [Industrie 4.0 (In German)](https://web.archive.org/web/20130304101009/http://www.vdi-nachrichten.com/artikel/Industrie-4-0-Mit-dem-Internet-der-Dinge-auf-dem-Weg-zur-4-industriellen-Revolution/52570/1) - The first definition of what industry 4.0 is (in German).
+
+## Deinitions of Industry 4.0 of different companies
+
+- [IBM](https://www.ibm.com/topics/industry-4-0) - The IBM definition of industry 4.0.
+- [Siemens](https://www.plm.automation.siemens.com/global/en/our-story/glossary/industry-4-0/29278) - The Siemens definition of industry 4.0.
+- [Accenture](https://www.accenture.com/au-en/insights/industry-x-index) - The Accenture definition of industry 4.0.
+
 
 <!-- END CONTENT -->
 
