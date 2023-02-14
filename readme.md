@@ -4,11 +4,11 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/akoscsiszar/awesome-i40/actions/workflows/lint.yaml/badge.svg)](https://github.com/akoscsiszar/awesome-i40/workflows/lint.yaml)
+# Awesome Industry 4.0 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/akoscsiszar/awesome-i40/actions/workflows/lint.yaml/badge.svg)](https://github.com/akoscsiszar/awesome-i40/workflows/lint.yaml)
 
 <!-- subtitle -->
 
-A template for an awesome list with required conventions out of the box!
+A comprehensive list of industry 4.0 related docs, talks, tools, examples, articles, howtos.
 
 <!-- image -->
 
@@ -18,10 +18,7 @@ A template for an awesome list with required conventions out of the box!
 
 <!-- description -->
 
-A one line description of the product or tool. See
-[awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an
-example.
-
+Industry 4.0 is levaraging modern technologies to face the challenges of manufacturing. 
 </div>
 
 <!-- TOC -->
