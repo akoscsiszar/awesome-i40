@@ -33,7 +33,7 @@ Industry 4.0 is levaraging modern technologies to face the challenges of manufac
 
 ## Featured (new releases)
 
-- [Placenholder](https://apple.com) - Placeholder.
+- [shifu, a kubernetes native IoT framework](https://www.github.com/edgenesis/shifu)
 
 ## Foundation
 
